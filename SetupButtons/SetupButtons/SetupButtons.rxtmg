@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc
+rxversion="7.0">
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="SetupButtons"
+      id="bceb3c05-fec4-4520-9ec1-a83a9f516398"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="SetupButtons"
+      id="bceb3c05-fec4-4520-9ec1-a83a9f516398"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>

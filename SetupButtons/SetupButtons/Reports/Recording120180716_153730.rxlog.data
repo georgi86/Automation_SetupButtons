@@ -1,0 +1,296 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="0ms"
+		durationms="0"
+		type="root"
+		rid="11d037f4788ed88"
+		totalerrorcount="0"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		user="EVMX"
+		host="SNAPDM200"
+		rxversion="7.0.1.0"
+		osversion="Windows 7 Service Pack 1 32bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="en-US"
+		screenresolution="1920x1080"
+		timestamp="7/16/2018 15:37:32"
+		timestampiso="2018-07-16T12:37:32"
+		timeoutfactor="1"
+		module="Recording1">
+		<detail>
+			Recording1
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:00.054"
+			timeRelativeToTestModuleStartTime="00:00.054"
+			timeWallClock="15:37:32"
+			time="00:00.054"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'SnapXUntitled.SNAPX.Method' at 21;59.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Snap-X - [Untitled]']/container[@controlid='59648']/form[@controlid='65281']//container[@controlid='59648']/container[@class='#32770']/?/?/container[@controlid='3035']/container[@accessiblename='Method']"
+				fullname="SetupButtonsRepository.SnapXUntitled.SNAPX.Method"
+				id="013c4baaaea94669bca4bf2707b36770"
+				timeout="90000"
+				codefile="d:\OTHERS\SetupButtons\SetupButtons\Recording1.cs"
+				codeline="82"
+				itemindex="65"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:01.428"
+			timeRelativeToTestModuleStartTime="00:01.428"
+			timeWallClock="15:37:33"
+			time="00:01.428"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'SnapXUntitled.SNAPX.Centroid' at 37;7.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Snap-X - [Untitled]']/container[@controlid='59648']/form[@controlid='65281']//container[@controlid='59648']/container[@class='#32770']/?/?/radiobutton[@text='Centroid']"
+				fullname="SetupButtonsRepository.SnapXUntitled.SNAPX.Centroid"
+				id="1136ab0e95344de795e27bb9ef220656"
+				timeout="90000"
+				codefile="d:\OTHERS\SetupButtons\SetupButtons\Recording1.cs"
+				codeline="86"
+				itemindex="66"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:02.441"
+			timeRelativeToTestModuleStartTime="00:02.441"
+			timeWallClock="15:37:34"
+			time="00:02.441"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'SnapXUntitled.SNAPX.EdgeMask' at 35;4.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Snap-X - [Untitled]']/container[@controlid='59648']/form[@controlid='65281']//container[@controlid='59648']/container[@class='#32770']/?/?/radiobutton[@text='Edge Mask']"
+				fullname="SetupButtonsRepository.SnapXUntitled.SNAPX.EdgeMask"
+				id="9ffe884ac1a04dd49b49fcce233673d9"
+				timeout="90000"
+				codefile="d:\OTHERS\SetupButtons\SetupButtons\Recording1.cs"
+				codeline="90"
+				itemindex="67"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:04.089"
+			timeRelativeToTestModuleStartTime="00:04.089"
+			timeWallClock="15:37:36"
+			time="00:04.089"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'SnapXUntitled.SNAPX.Multiple' at 171;9.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Snap-X - [Untitled]']/container[@controlid='59648']/form[@controlid='65281']//container[@controlid='59648']/container[@class='#32770']/?/?/container[@class='#32770']/container[@caption='Multiple']/container[@accessiblename='Multiple']"
+				fullname="SetupButtonsRepository.SnapXUntitled.SNAPX.Multiple"
+				id="e192728e17164b3ca5990da081d5d187"
+				timeout="90000"
+				codefile="d:\OTHERS\SetupButtons\SetupButtons\Recording1.cs"
+				codeline="94"
+				itemindex="68"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:05.337"
+			timeRelativeToTestModuleStartTime="00:05.337"
+			timeWallClock="15:37:37"
+			time="00:05.337"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'SnapXUntitled.SNAPX.Multiple1' at 28;5.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Snap-X - [Untitled]']/container[@controlid='59648']/form[@controlid='65281']//container[@controlid='59648']/container[@class='#32770']/?/?/container[@class='#32770']/checkbox[@text='Multiple']"
+				fullname="SetupButtonsRepository.SnapXUntitled.SNAPX.Multiple1"
+				id="7af06cb02e9a4965b000843e1d925ef7"
+				timeout="90000"
+				codefile="d:\OTHERS\SetupButtons\SetupButtons\Recording1.cs"
+				codeline="98"
+				itemindex="69"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:06.493"
+			timeRelativeToTestModuleStartTime="00:06.493"
+			timeWallClock="15:37:38"
+			time="00:06.493"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'SnapXUntitled.SNAPX.Threshold' at 116;15.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Snap-X - [Untitled]']/container[@controlid='59648']/form[@controlid='65281']//container[@controlid='59648']/container[@class='#32770']/?/?/container[@controlid='2100' and @class='Button' and @instance='1']/container[@accessiblename='Threshold']"
+				fullname="SetupButtonsRepository.SnapXUntitled.SNAPX.Threshold"
+				id="86dae624110f49b9ad506dc848f9acd5"
+				timeout="90000"
+				codefile="d:\OTHERS\SetupButtons\SetupButtons\Recording1.cs"
+				codeline="102"
+				itemindex="70"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:07.661"
+			timeRelativeToTestModuleStartTime="00:07.661"
+			timeWallClock="15:37:39"
+			time="00:07.661"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'SnapXUntitled.SNAPX.Filter' at 86;15.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Snap-X - [Untitled]']/container[@controlid='59648']/form[@controlid='65281']//container[@controlid='59648']/container[@class='#32770']/?/?/container[@class='#32770']/container[@caption='Filter']/container[@accessiblename='Filter']"
+				fullname="SetupButtonsRepository.SnapXUntitled.SNAPX.Filter"
+				id="fcc048905368434486249db905c9d091"
+				timeout="90000"
+				codefile="d:\OTHERS\SetupButtons\SetupButtons\Recording1.cs"
+				codeline="106"
+				itemindex="71"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:08.840"
+			timeRelativeToTestModuleStartTime="00:08.840"
+			timeWallClock="15:37:41"
+			time="00:08.840"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'SnapXUntitled.SNAPX.Text2106' at 11;5.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Snap-X - [Untitled]']/container[@controlid='59648']/form[@controlid='65281']//container[@controlid='59648']/container[@class='#32770']/?/?/container[@class='#32770']/text[@controlid='2106']"
+				fullname="SetupButtonsRepository.SnapXUntitled.SNAPX.Text2106"
+				id="ed2e6d661e7745adbb32d90d07a73a83"
+				timeout="90000"
+				codefile="d:\OTHERS\SetupButtons\SetupButtons\Recording1.cs"
+				codeline="110"
+				itemindex="72"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:09.798"
+			timeRelativeToTestModuleStartTime="00:09.798"
+			timeWallClock="15:37:42"
+			time="00:09.798"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'SnapXUntitled.SNAPX.Text2112' at 11;6.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Snap-X - [Untitled]']/container[@controlid='59648']/form[@controlid='65281']//container[@controlid='59648']/container[@class='#32770']/?/?/container[@class='#32770']/text[@controlid='2112']"
+				fullname="SetupButtonsRepository.SnapXUntitled.SNAPX.Text2112"
+				id="024dea1c618443599836f51dcdd8f495"
+				timeout="90000"
+				codefile="d:\OTHERS\SetupButtons\SetupButtons\Recording1.cs"
+				codeline="114"
+				itemindex="73"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:10.898"
+			timeRelativeToTestModuleStartTime="00:10.898"
+			timeWallClock="15:37:43"
+			time="00:10.898"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'SnapXUntitled.SNAPX.Fill' at 28;6.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Snap-X - [Untitled]']/container[@controlid='59648']/form[@controlid='65281']//container[@controlid='59648']/container[@class='#32770']/?/?/container[@class='#32770']/checkbox[@text='Fill']"
+				fullname="SetupButtonsRepository.SnapXUntitled.SNAPX.Fill"
+				id="4b81c6c1619d4bfbb6231a3bd83b3cee"
+				timeout="90000"
+				codefile="d:\OTHERS\SetupButtons\SetupButtons\Recording1.cs"
+				codeline="118"
+				itemindex="74"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:12.085"
+			timeRelativeToTestModuleStartTime="00:12.085"
+			timeWallClock="15:37:44"
+			time="00:12.085"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'SnapXUntitled.SNAPX.TouchBoundary' at 40;6.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Snap-X - [Untitled]']/container[@controlid='59648']/form[@controlid='65281']//container[@controlid='59648']/container[@class='#32770']/?/?/container[@class='#32770']/checkbox[@text='Touch Boundary']"
+				fullname="SetupButtonsRepository.SnapXUntitled.SNAPX.TouchBoundary"
+				id="5fa6715fd15446a1ace7467c984e2bc3"
+				timeout="90000"
+				codefile="d:\OTHERS\SetupButtons\SetupButtons\Recording1.cs"
+				codeline="122"
+				itemindex="75"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:13.271"
+			timeRelativeToTestModuleStartTime="00:13.271"
+			timeWallClock="15:37:45"
+			time="00:13.271"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence 'c'.
+			</message>
+			<metainfo
+				itemindex="76"
+				codefile="d:\OTHERS\SetupButtons\SetupButtons\Recording1.cs"
+				codeline="126"
+				loglvl="Info">
+			</metainfo>
+		</item>
+	</activity>
+</report>
